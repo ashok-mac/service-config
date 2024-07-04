@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to DemoBank accounts PROD API From GIT"
   contactDetails:
     name: "PROD Team"
-    email: "71da62d7e45fb252734b50a2765d38383365b8e9a368b60c819771630cdfe1c3"
+    email: "{cipher}71da62d7e45fb252734b50a2765d38383365b8e9a368b60c819771630cdfe1c3"
   onCallSupport:
     -(852) 8888-7777

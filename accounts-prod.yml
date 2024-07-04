@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DemoBank accounts RABBIT MQ CHANGE API From GIT"
+  message: "Welcome to DemoBank accounts RABBIT MQ CHANGE API From GITHUB WEBHOOK"
   contactDetails:
     name: "PROD Team"
     email: "{cipher}71da62d7e45fb252734b50a2765d38383365b8e9a368b60c819771630cdfe1c3"

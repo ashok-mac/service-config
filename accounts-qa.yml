@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to DemoBank accounts QA API From Config"
+  contactDetails:
+    name: "QA Team"
+    email: "QA@org.com"
+  onCallSupport:
+    -(852) 6666-7777

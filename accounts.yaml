@@ -1,0 +1,10 @@
+build:
+  version: "4.0"
+
+accounts:
+  message: "Welcome to DemoBank accounts API From Config"
+  contactDetails:
+    name: "Digital Team"
+    email: "Dig@org.com"
+  onCallSupport:
+    -(852) 7777-7777

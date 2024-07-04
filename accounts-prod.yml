@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to DemoBank accounts PROD API From Config"
+  contactDetails:
+    name: "PROD Team"
+    email: "Prod@org.com"
+  onCallSupport:
+    -(852) 8888-7777
